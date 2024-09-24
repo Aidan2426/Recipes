@@ -1,19 +1,17 @@
 body{
     font-family: sans-serif;
     background: black;
+    color: white;
 }
 
 .OS {
-    color:white;
     background-color: black;
 }
 
 .Taco {
-    color: yellow;
     font-size:30px;
 }
 
 .Burger {
-    color:brown;
     font-size:30px;
 }
