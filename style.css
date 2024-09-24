@@ -1,17 +1,40 @@
+
 body{
     font-family: sans-serif;
-    background: black;
-    color: white;
+    background: white;
+    color: black;
 }
 
 .OS {
-    background-color: black;
+    font-size:30px;
+    background-color:yellow;
+    padding: 5px;
+    border: 10px solid black;
+    margin: 25px;
+    height: auto;
+    width: 100px;
+    display: inline-block
+    
 }
 
 .Taco {
     font-size:30px;
+    background-color:yellow;
+    padding: 20px;
+    border: 10px solid black;
+    margin: 25px;
+    height: 50px;
+    width: 100px;
+    display: inline-block     
 }
 
 .Burger {
     font-size:30px;
+    background-color:yellow;
+    padding: 20px;
+    border: 10px solid black;
+    margin: 25px;
+    height: 50px;
+    width: 100px;
+
 }
